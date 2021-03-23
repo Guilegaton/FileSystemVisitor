@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FileSystemVisitor", "FileSy
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FileSystemVisitor.Common", "FileSystemVisitor.Common\FileSystemVisitor.Common.csproj", "{C1A129BC-B659-4B35-8574-2F5C47EEFFDC}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FileSystemVisitor.Tests", "FileSystemVisitor.Tests\FileSystemVisitor.Tests.csproj", "{C631FC43-C4B3-4F5B-AEC6-76D2DE3150F8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{C1A129BC-B659-4B35-8574-2F5C47EEFFDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C1A129BC-B659-4B35-8574-2F5C47EEFFDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C1A129BC-B659-4B35-8574-2F5C47EEFFDC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C631FC43-C4B3-4F5B-AEC6-76D2DE3150F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C631FC43-C4B3-4F5B-AEC6-76D2DE3150F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C631FC43-C4B3-4F5B-AEC6-76D2DE3150F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C631FC43-C4B3-4F5B-AEC6-76D2DE3150F8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
